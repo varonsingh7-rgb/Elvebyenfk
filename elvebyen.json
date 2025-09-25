@@ -1,0 +1,197 @@
+{
+  "results": [
+    {
+      "date": "2025-09-22",
+      "venue": "Fjell kunstgress",
+      "homeTeam": "Elvebyen FK",
+      "awayTeam": "Kjappen 2",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-09-15",
+      "venue": "Vikåsen Kunstgress",
+      "homeTeam": "Vikåsen",
+      "awayTeam": "Elvebyen FK",
+      "homeGoals": 1,
+      "awayGoals": 6,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-09-08",
+      "venue": "Fjell kunstgress",
+      "homeTeam": "Elvebyen FK",
+      "awayTeam": "Steinberg 2",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-09-01",
+      "venue": "Vassenga gress AB",
+      "homeTeam": "Mjøndalen 3",
+      "awayTeam": "Elvebyen FK",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-08-27",
+      "venue": "Skoger stadion",
+      "homeTeam": "Elvebyen FK",
+      "awayTeam": "Huringen",
+      "homeGoals": 6,
+      "awayGoals": 4,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-06-24",
+      "venue": "Fjell kunstgress",
+      "homeTeam": "Elvebyen FK",
+      "awayTeam": "Slemmestad 2",
+      "homeGoals": 5,
+      "awayGoals": 4,
+      "link": "https://www.fotball.no/fotballdata/kamp/?fiksId=8752735"
+    },
+    {
+      "date": "2025-06-16",
+      "venue": "Skoger stadion",
+      "homeTeam": "Skoger 2",
+      "awayTeam": "Elvebyen FK",
+      "homeGoals": 6,
+      "awayGoals": 3,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-06-10",
+      "venue": "Fjell kunstgress",
+      "homeTeam": "Elvebyen FK",
+      "awayTeam": "Nordre Sande/Sande 2",
+      "homeGoals": 7,
+      "awayGoals": 2,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "date": "2025-06-02",
+      "venue": "Bragerøen KG",
+      "homeTeam": "Kjappen 2",
+      "awayTeam": "Elvebyen FK",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    }
+  ],
+  "fixtures": [
+    {
+      "dateTime": "2025-09-29T20:00:00",
+      "venue": "Nordre Sande Kunstgress",
+      "description": "Nordre Sande/Sande 2 vs Elvebyen FK",
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "dateTime": "2025-10-06T20:00:00",
+      "venue": "Fjell kunstgress",
+      "description": "Elvebyen FK vs Skoger 2",
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    },
+    {
+      "dateTime": "2025-10-14T20:00:00",
+      "venue": "Slemmestad stadion",
+      "description": "Slemmestad 2 vs Elvebyen FK",
+      "link": "https://www.fotball.no/fotballdata/lag/kamper/?fiksId=210705"
+    }
+  ],
+  "table": [
+    {
+      "team": "Huringen",
+      "p": 15,
+      "w": 13,
+      "d": 1,
+      "l": 1,
+      "gd": 40,
+      "pts": 40
+    },
+    {
+      "team": "Elvebyen FK",
+      "p": 15,
+      "w": 11,
+      "d": 0,
+      "l": 4,
+      "gd": 36,
+      "pts": 33
+    },
+    {
+      "team": "Skoger 2",
+      "p": 14,
+      "w": 8,
+      "d": 2,
+      "l": 4,
+      "gd": 18,
+      "pts": 26
+    },
+    {
+      "team": "Nordre Sande/Sande 2",
+      "p": 14,
+      "w": 7,
+      "d": 2,
+      "l": 5,
+      "gd": 16,
+      "pts": 23
+    },
+    {
+      "team": "Kjappen 2",
+      "p": 15,
+      "w": 7,
+      "d": 1,
+      "l": 7,
+      "gd": 8,
+      "pts": 22
+    },
+    {
+      "team": "Sjåstad V. Lier/Sylling",
+      "p": 15,
+      "w": 7,
+      "d": 1,
+      "l": 7,
+      "gd": -3,
+      "pts": 22
+    },
+    {
+      "team": "Steinberg 2",
+      "p": 15,
+      "w": 5,
+      "d": 2,
+      "l": 8,
+      "gd": -11,
+      "pts": 17
+    },
+    {
+      "team": "Mjøndalen 3",
+      "p": 15,
+      "w": 5,
+      "d": 2,
+      "l": 8,
+      "gd": -13,
+      "pts": 17
+    },
+    {
+      "team": "Slemmestad 2",
+      "p": 15,
+      "w": 3,
+      "d": 1,
+      "l": 11,
+      "gd": -18,
+      "pts": 10
+    },
+    {
+      "team": "Vikåsen",
+      "p": 15,
+      "w": 1,
+      "d": 2,
+      "l": 12,
+      "gd": -73,
+      "pts": 5
+    }
+  ]
+}
